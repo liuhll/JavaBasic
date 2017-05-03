@@ -28,4 +28,21 @@ public class FileTest {
             e.printStackTrace();
         }
     }
+
+    @Test
+    public void FilePathSeparatorTest(){
+        String osName = System.getProperties().get("os.name").toString();
+
+        if (osName == null){
+           Assert.assertTrue("获取系统名称失败",false);
+        }
+        if (osName.toLowerCase().contains("windows")){
+            Assert.assertEquals("判断windows系统字符分隔符","\\",File.separator);
+        }
+        else
+        {
+            Assert.assertEquals("判断linux系统字符分隔符","/",File.separator);
+        }
+        System.out.println(File.separator);
+    }
 }

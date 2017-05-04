@@ -71,6 +71,9 @@ public @interface Decription {
 
 }
 ```
+### 解析注解
+- 通过**反射**获取类、函数、或函数成员上的**运行时**注解信息，从而实现动态程序运行的逻辑
+
 
 ### 其他资料
 - [深入理解Java注解](http://www.cnblogs.com/peida/archive/2013/04/23/3036035.html)

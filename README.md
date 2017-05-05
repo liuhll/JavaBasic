@@ -33,3 +33,9 @@
 
 ## Java反射
 - [Java反射笔记](./scr/main/java/com/straydog/learnjava/reflection/README.md)
+
+## Java泛型
+- [Java泛型笔记](./scr/main/java/com/straydog/learnjava/generic/README.md)
+
+## Java与C#的比较
+- [C#与Java的比较](http://www.cnblogs.com/zhucai/archive/2011/02/16/csharp-compare-java.html)

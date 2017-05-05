@@ -1,0 +1,20 @@
+# java 与C#的比较
+- 泛型不一样，Java泛型只是编译时的，但C#的泛型在运行时也被维持，而且适用于value types 和 reference types
+- C# 没有 checked exceptionsJava 不允许建立user-defined 的value types
+- Java 不允许运算符重载
+- Java 没有类似LINQ的特性
+- Java 不支持委托
+- C# 没有匿名内部类C#没有像java 那样的内部类，所有的nested classes 其实都像Java 的静态nested classses
+- Java 没有静态类
+- Java 没有 扩展方法（extension methods）
+- 两者的访问修饰符有一定区别
+- 两者初始化（initialization）的顺序有一定不同。
+   - C#初始化变量后才调用父类的构造方法
+- Java 没有类似“properties”的东西，而是约定俗成为getter 和setter
+- Java 没有类似与"unsafe"的特性
+- 两者的枚举（enums）有一定的不同，Java的更加面向对象
+- Java的参数只能传值，没有类似于C#的ref 和out 传递引用。（注：Java 传递对象只是传递对象引用的copy）
+- Java 没有partial types
+- C# 的interface 不能定义字段
+- Java 没有unsigned 的整形
+- Java 没有类型与nullable 的value types

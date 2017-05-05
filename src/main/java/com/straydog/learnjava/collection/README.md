@@ -60,4 +60,8 @@
 ### `HashTable`与`HashMap`
 1. 同步性: `Hashtable` 是线程安全的，也就是说是同步的，而`HashMap`是线程序不安全的，不是同步的。
 2. `HashMap`允许存在一个为 `null`的 `key`，多个为`null`的`value` 。
-3. `hashtable`的`key`和`value`都不允许为 `null`。   
+3. `hashtable`的`key`和`value`都不允许为 `null`。
+
+## 与集合相关的包
+- 与集合相关的类或接口都被封装在 `java.util` 包中
+- [API文档](http://tool.oschina.net/apidocs/apidoc?api=jdk-zh)

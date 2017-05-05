@@ -60,3 +60,17 @@ Java程序可以加载一个**运行时**才得知名称的 `class`，获悉其�
 
 
 java语言中就有了**四种类型**（TYPE），即类(`class`)、枚举(`enum`)、接口(`interface`)和注解(`@interface`)，它们是处在同一级别的
+
+
+## 与反射相关的类|包
+
+与Java反射相关的类除了 `Class`之外都被放置在`java.lang.reflect`包下
+```java
+java.lang.reflect.*
+java.lang.Class;
+java.lang.reflect.Constructor;
+java.lang.reflect.Field;
+java.lang.reflect.Method;
+java.lang.reflect.Modifier;
+```
+- [API文档](http://tool.oschina.net/apidocs/apidoc?api=jdk-zh)

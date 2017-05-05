@@ -65,6 +65,7 @@ java语言中就有了**四种类型**（TYPE），即类(`class`)、枚举(`enu
 ## 与反射相关的类|包
 
 与Java反射相关的类除了 `Class`之外都被放置在`java.lang.reflect`包下
+
 ```java
 java.lang.reflect.*
 java.lang.Class;
@@ -73,4 +74,8 @@ java.lang.reflect.Field;
 java.lang.reflect.Method;
 java.lang.reflect.Modifier;
 ```
+
+## 其他资料
+- [Java反射机制详解](http://baike.xsoftlab.net/view/209.html#3_2)
+
 - [API文档](http://tool.oschina.net/apidocs/apidoc?api=jdk-zh)

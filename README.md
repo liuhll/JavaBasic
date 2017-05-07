@@ -37,5 +37,9 @@
 ## Java泛型
 - [Java泛型笔记](./scr/main/java/com/straydog/learnjava/generic/README.md)
 
+## Java异常处理
+- [Java异常处理笔记](./scr/main/java/com/straydog/learnjava/exception/README.md)
+
+
 ## Java与C#的比较
 - [C#与Java的比较](http://www.cnblogs.com/zhucai/archive/2011/02/16/csharp-compare-java.html)

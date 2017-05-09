@@ -27,7 +27,7 @@ public class RandomAccessFileTest {
                 System.out.println("当前文件指针在:" + raf2.getFilePointer());
             }
         } catch (FileNotFoundException e) {
-          
+
             e.printStackTrace();
         } catch (IOException e) {
 

@@ -34,11 +34,14 @@
 ## Java反射
 - [Java反射笔记](./scr/main/java/com/straydog/learnjava/reflection/README.md)
 
-## Java泛型
-- [Java泛型笔记](./scr/main/java/com/straydog/learnjava/generic/README.md)
+## Java泛型src
+- [Java泛型笔记](./src/main/java/com/straydog/learnjava/generic/README.md)
 
 ## Java异常处理
-- [Java异常处理笔记](./scr/main/java/com/straydog/learnjava/exception/README.md)
+- [Java异常处理笔记](./src/main/java/com/straydog/learnjava/exception/README.md)
+
+## Java内部类
+- [Java内部类笔记](./src/main/java/com/straydog/learnjava/innerclass/README.md)
 
 
 ## Java与C#的比较

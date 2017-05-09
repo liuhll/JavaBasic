@@ -27,17 +27,17 @@ public class RandomAccessFileTest {
                 System.out.println("当前文件指针在:" + raf2.getFilePointer());
             }
         } catch (FileNotFoundException e) {
-            // TODO Auto-generated catch block
+          
             e.printStackTrace();
         } catch (IOException e) {
-            // TODO Auto-generated catch block
+
             e.printStackTrace();
         }finally{
             if(raf2 != null){
                 try {
                     raf2.close();
                 } catch (IOException e) {
-                    // TODO Auto-generated catch block
+
                     e.printStackTrace();
                 }
             }
@@ -45,7 +45,7 @@ public class RandomAccessFileTest {
                 try {
                     raf1.close();
                 } catch (IOException e) {
-                    // TODO Auto-generated catch block
+
                     e.printStackTrace();
                 }
             }

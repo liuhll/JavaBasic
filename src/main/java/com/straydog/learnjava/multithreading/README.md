@@ -189,6 +189,7 @@ class MyCallable implements Callable<Integer> {
 
 - 如果你的代码在多线程下执行和在单线程下执行永远都能获得一样的结果，那么你的代码就是线程安全的
 
+- [线程安全笔记](ThreadSafety.md)
 
 ## 生产者-消费者模式
 

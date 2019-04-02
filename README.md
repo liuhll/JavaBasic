@@ -33,6 +33,7 @@
 
 ## Java反射
 - [Java反射笔记](./scr/main/java/com/straydog/learnjava/reflection/README.md)
+- [Java类加载器](./docs/reflect/ClassLoader.md)
 
 ## Java泛型src
 - [Java泛型笔记](./src/main/java/com/straydog/learnjava/generic/README.md)

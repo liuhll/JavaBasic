@@ -6,27 +6,8 @@
 
 
 ## Java 文件与IO流
-- `File` 代表文件 文件或目录本身，可以获取文件或目录本身的信息，但是不能访问文件内容 
-- `AccessRandomFile` 提供了随机读取或写入文件内容的能力（通过文件指针）
 
-- IO流
-   - 字符流
-   - 字节流
-   
-   - 输入流
-   - 输出流
-   
 ##  Java集合 
-- `Collection`   接口 
-    - `List`
-    - `Set`
-    - `Queue`
-
- - `Map`  接口 
-      - `K-V`  键值对 
- 
- - `Iterator` 接口
-    - 支持 `foreach` 遍历
     
 ## Java注解
 - [java注解笔记](./src/main/java/com/straydog/learnjava/annotation/README.md)
@@ -36,7 +17,10 @@
 - [Java类加载器](./docs/reflect/ClassLoader.md)
 - [类的加载方式](./docs/reflect/class-load-method.md)
 
-## Java泛型src
+## JVM
+- [JVM架构图和JVM内存模型](./docs/jvm/jvm-arch-diagram.md)
+
+## Java泛型
 - [Java泛型笔记](./src/main/java/com/straydog/learnjava/generic/README.md)
 
 ## Java异常处理

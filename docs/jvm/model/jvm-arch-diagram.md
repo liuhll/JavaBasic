@@ -1,7 +1,7 @@
 # JVM
 
 ## Jvm 架构图
-![jvm](./images/jvm-arch.jpg)
+![jvm](../images/jvm-arch.jpg)
 
 - 类加载器(ClassLoader):依据特定格式，加载class文件到内存
 - 字节码执行引擎(Execution Engine)：对命令进行解析

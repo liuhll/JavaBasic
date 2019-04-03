@@ -19,6 +19,7 @@
 
 ## JVM
 - [JVM架构图和JVM内存模型](./docs/jvm/jvm-arch-diagram.md)
+- [Jvm常见面试题](./docs/jvm/jvm-interview.md)
 
 ## Java泛型
 - [Java泛型笔记](./src/main/java/com/straydog/learnjava/generic/README.md)

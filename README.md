@@ -18,8 +18,11 @@
 - [类的加载方式](./docs/reflect/class-load-method.md)
 
 ## JVM
-- [JVM架构图和JVM内存模型](./docs/jvm/jvm-arch-diagram.md)
-- [Jvm常见面试题](./docs/jvm/jvm-interview.md)
+- [JVM架构图和JVM内存模型](docs/jvm/model/jvm-arch-diagram.md)
+- [Jvm常见面试题](docs/jvm/model/jvm-interview.md)
+
+## Java垃圾回收机制
+-[Java垃圾回收机制](docs/jvm/gc/gc-intro.md)
 
 ## Java泛型
 - [Java泛型笔记](./src/main/java/com/straydog/learnjava/generic/README.md)

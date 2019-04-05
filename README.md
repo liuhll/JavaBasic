@@ -26,7 +26,7 @@
 - [Jvm常见面试题](docs/jvm/model/jvm-interview.md)
 
 ## Java垃圾回收机制
--[Java垃圾回收机制](docs/jvm/gc/gc-intro.md)
+- [Java垃圾回收机制](docs/jvm/gc/gc-intro.md)
 
 ## Java泛型
 - [Java泛型笔记](./src/main/java/com/straydog/learnjava/generic/README.md)
